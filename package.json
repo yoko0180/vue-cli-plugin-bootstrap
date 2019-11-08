@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-plugin-bootstrap",
+  "name": "@yoko0180/vue-cli-plugin-bootstrap",
   "version": "0.1.0",
   "main": "index.js",
   "repository": {
